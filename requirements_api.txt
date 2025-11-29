@@ -1,0 +1,22 @@
+# IndexTTS API 服务依赖
+
+# Web 框架
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+
+# HTTP 客户端（用于测试和示例）
+requests>=2.31.0
+
+# 数据验证
+pydantic>=2.4.0
+
+# 注意：以下是 IndexTTS 主项目的依赖，应该已经安装
+# torch
+# torchaudio  
+# librosa
+# omegaconf
+# transformers
+# modelscope
+# safetensors
+# huggingface_hub
+

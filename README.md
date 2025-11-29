@@ -11,6 +11,13 @@
 
 ## 👉🏻 IndexTTS2 👈🏻
 
+#  运行方式
+## 单独运行
+uv run webui.py  这个运行的是indexTTS2 本身
+
+## 我自己封装的API
+
+
 <center><h3>IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech</h3></center>
 
 [![IndexTTS2](assets/IndexTTS2_banner.png)](assets/IndexTTS2_banner.png)
